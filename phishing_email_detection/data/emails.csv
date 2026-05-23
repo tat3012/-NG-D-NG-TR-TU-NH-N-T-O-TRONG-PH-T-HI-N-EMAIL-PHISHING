@@ -1,0 +1,5701 @@
+text,label
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Weekly report submission
+
+Hello Anna,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Password policy awareness training
+
+Hello Minh,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+Project Team",0
+"Subject: Project status update
+
+Hello Sarah,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: HR announcement
+
+Hello Linh,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Thank you,
+IT Support",0
+"Subject: Client feedback summary
+
+Hello Alex,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Thank you,
+Academic Office",0
+"Subject: Code review summary
+
+Hello Linh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Password policy awareness training
+
+Hello Alex,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Weekly report submission
+
+Hello Sarah,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Budget review notes
+
+Hello Mai,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: System maintenance notice
+
+Hello Dung,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Important tax refund notification
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Payroll update required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Password policy awareness training
+
+Hello Mai,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: University class reminder
+
+Hello John,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Budget review notes
+
+Hello Huy,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: University class reminder
+
+Hello Mai,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: System maintenance notice
+
+Hello Linh,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Monthly invoice from approved vendor
+
+Hello John,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+This message is for internal communication only.
+Project Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Training schedule confirmation
+
+Hello Dung,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Research paper discussion
+
+Hello Dung,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Project status update
+
+Hello Minh,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Weekly report submission
+
+Hello Dung,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Client feedback summary
+
+Hello Dung,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Payroll update required
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Delivery confirmation from office supply
+
+Hello Anna,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Password policy awareness training
+
+Hello Anna,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Code review summary
+
+Hello John,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: Training schedule confirmation
+
+Hello Huy,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+Finance Team",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+This is the final warning.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Weekly report submission
+
+Hello Sarah,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: University class reminder
+
+Hello Minh,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+The official document is available in the shared drive.
+HR Department",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+PayFast",1
+"Subject: Payroll update required
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Meeting agenda for tomorrow
+
+Hello David,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: University class reminder
+
+Hello Minh,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Project status update
+
+Hello Linh,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: University class reminder
+
+Hello David,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Weekly report submission
+
+Hello Anna,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Code review summary
+
+Hello Alex,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Thank you,
+Finance Team",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: HR announcement
+
+Hello Huy,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Best regards,
+Finance Team",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Weekly report submission
+
+Hello Mai,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Best regards,
+IT Support",0
+"Subject: Weekly report submission
+
+Hello Dung,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: System maintenance notice
+
+Hello Huy,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: Code review summary
+
+Hello Alex,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: Important tax refund notification
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+CloudMail",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: Project status update
+
+Hello Dung,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Meeting agenda for tomorrow
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Team lunch invitation
+
+Hello Mai,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+Thank you,
+Finance Team",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Research paper discussion
+
+Hello Alex,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Password policy awareness training
+
+Hello Alex,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Team lunch invitation
+
+Hello Anna,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: Code review summary
+
+Hello John,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+PayFast",1
+"Subject: System maintenance notice
+
+Hello Mai,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Thank you,
+HR Department",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: HR announcement
+
+Hello John,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+The official document is available in the shared drive.
+Research Group",0
+"Subject: Monthly invoice from approved vendor
+
+Hello Alex,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Budget review notes
+
+Hello Minh,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Team lunch invitation
+
+Hello Mai,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Best regards,
+Finance Team",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Payroll update required
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: Password policy awareness training
+
+Hello Sarah,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: University class reminder
+
+Hello Sarah,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Thank you,
+Project Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: Delivery confirmation from office supply
+
+Hello John,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Password policy awareness training
+
+Hello Linh,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+The official document is available in the shared drive.
+HR Department",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+TaxOnline",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Code review summary
+
+Hello Huy,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+The official document is available in the shared drive.
+HR Department",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: University class reminder
+
+Hello David,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Research paper discussion
+
+Hello Dung,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Password policy awareness training
+
+Hello John,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Important tax refund notification
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Project status update
+
+Hello Linh,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Team lunch invitation
+
+Hello Huy,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Password policy awareness training
+
+Hello John,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+Project Team",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: Team lunch invitation
+
+Hello David,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+The official document is available in the shared drive.
+Research Group",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: Password policy awareness training
+
+Hello Mai,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: HR announcement
+
+Hello Huy,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Thank you,
+IT Support",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: HR announcement
+
+Hello David,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Thank you,
+HR Department",0
+"Subject: Project status update
+
+Hello Linh,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Best regards,
+Finance Team",0
+"Subject: Team lunch invitation
+
+Hello David,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Thank you,
+Project Team",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+CloudMail",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+MetaPay",1
+"Subject: Training schedule confirmation
+
+Hello Sarah,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Payroll update required
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Project status update
+
+Hello Sarah,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Monthly invoice from approved vendor
+
+Hello Dung,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Thank you,
+Research Group",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Team lunch invitation
+
+Hello David,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Please reply if you have questions.
+HR Department",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Client feedback summary
+
+Hello Anna,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Thank you,
+Academic Office",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Budget review notes
+
+Hello David,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Best regards,
+Academic Office",0
+"Subject: Team lunch invitation
+
+Hello Dung,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Payroll update required
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: Training schedule confirmation
+
+Hello Sarah,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Client feedback summary
+
+Hello David,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+Research Group",0
+"Subject: Team lunch invitation
+
+Hello David,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+The official document is available in the shared drive.
+Research Group",0
+"Subject: Research paper discussion
+
+Hello David,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Best regards,
+Project Team",0
+"Subject: Password policy awareness training
+
+Hello Alex,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: System maintenance notice
+
+Hello Anna,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+Please reply if you have questions.
+HR Department",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: HR announcement
+
+Hello David,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+The official document is available in the shared drive.
+HR Department",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Delivery confirmation from office supply
+
+Hello Huy,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Project status update
+
+Hello John,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Client feedback summary
+
+Hello John,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Training schedule confirmation
+
+Hello David,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Best regards,
+Project Team",0
+"Subject: Weekly report submission
+
+Hello Linh,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Research paper discussion
+
+Hello Linh,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Best regards,
+Research Group",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+PayFast",1
+"Subject: University class reminder
+
+Hello Dung,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Payroll update required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+This is the final warning.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: Team lunch invitation
+
+Hello Huy,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Thank you,
+Research Group",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: HR announcement
+
+Hello David,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+Thank you,
+Academic Office",0
+"Subject: Payroll update required
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+MetaPay",1
+"Subject: University class reminder
+
+Hello Linh,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Best regards,
+Finance Team",0
+"Subject: Monthly invoice from approved vendor
+
+Hello Huy,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Thank you,
+Academic Office",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Payroll update required
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Delivery confirmation from office supply
+
+Hello Dung,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: System maintenance notice
+
+Hello Alex,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Code review summary
+
+Hello Anna,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Thank you,
+HR Department",0
+"Subject: Team lunch invitation
+
+Hello Huy,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Team lunch invitation
+
+Hello Mai,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Password policy awareness training
+
+Hello David,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Best regards,
+Project Team",0
+"Subject: Delivery confirmation from office supply
+
+Hello Linh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Project status update
+
+Hello John,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Please reply if you have questions.
+Academic Office",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: University class reminder
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Best regards,
+Finance Team",0
+"Subject: Code review summary
+
+Hello Dung,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Client feedback summary
+
+Hello Mai,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+This message is for internal communication only.
+Project Team",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Project status update
+
+Hello Mai,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: University class reminder
+
+Hello Alex,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Team lunch invitation
+
+Hello Minh,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Best regards,
+Research Group",0
+"Subject: Client feedback summary
+
+Hello Anna,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Client feedback summary
+
+Hello Huy,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Monthly invoice from approved vendor
+
+Hello Huy,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Research paper discussion
+
+Hello Linh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Research paper discussion
+
+Hello Dung,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Weekly report submission
+
+Hello Minh,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Thank you,
+IT Support",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: University class reminder
+
+Hello David,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+The official document is available in the shared drive.
+HR Department",0
+"Subject: University class reminder
+
+Hello Alex,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+Research Group",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Monthly invoice from approved vendor
+
+Hello Huy,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Thank you,
+Finance Team",0
+"Subject: Password policy awareness training
+
+Hello Anna,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Delivery confirmation from office supply
+
+Hello Mai,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: Client feedback summary
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Please reply if you have questions.
+HR Department",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+MetaPay",1
+"Subject: System maintenance notice
+
+Hello Huy,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Best regards,
+Academic Office",0
+"Subject: System maintenance notice
+
+Hello Alex,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: University class reminder
+
+Hello John,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+MetaPay",1
+"Subject: Project status update
+
+Hello David,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+The official document is available in the shared drive.
+HR Department",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Budget review notes
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: University class reminder
+
+Hello Huy,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Training schedule confirmation
+
+Hello Anna,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Thank you,
+HR Department",0
+"Subject: Claim your prize now
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Code review summary
+
+Hello Minh,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: Training schedule confirmation
+
+Hello John,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: University class reminder
+
+Hello John,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+Project Team",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Research paper discussion
+
+Hello John,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: HR announcement
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: Client feedback summary
+
+Hello Anna,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Best regards,
+Finance Team",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Client feedback summary
+
+Hello Dung,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Budget review notes
+
+Hello Minh,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Thank you,
+Finance Team",0
+"Subject: Client feedback summary
+
+Hello David,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Delivery confirmation from office supply
+
+Hello Alex,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Weekly report submission
+
+Hello David,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Huy,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: Payroll update required
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Budget review notes
+
+Hello Alex,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Monthly invoice from approved vendor
+
+Hello John,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Delivery confirmation from office supply
+
+Hello Mai,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: Research paper discussion
+
+Hello Alex,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: System maintenance notice
+
+Hello John,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Thank you,
+IT Support",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+This is the final warning.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: University class reminder
+
+Hello Mai,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Best regards,
+IT Support",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Training schedule confirmation
+
+Hello John,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Best regards,
+HR Department",0
+"Subject: Budget review notes
+
+Hello David,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: System maintenance notice
+
+Hello Anna,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Thank you,
+Academic Office",0
+"Subject: Delivery confirmation from office supply
+
+Hello Sarah,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Team lunch invitation
+
+Hello Mai,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Best regards,
+Finance Team",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Dung,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Thank you,
+Project Team",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Payroll update required
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Meeting agenda for tomorrow
+
+Hello Alex,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Best regards,
+Project Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+MetaPay",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Project status update
+
+Hello David,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+BankSecure",1
+"Subject: Budget review notes
+
+Hello Alex,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+BankSecure",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+PayFast",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Delivery confirmation from office supply
+
+Hello Dung,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Best regards,
+IT Support",0
+"Subject: University class reminder
+
+Hello Linh,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Thank you,
+HR Department",0
+"Subject: System maintenance notice
+
+Hello John,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Please reply if you have questions.
+Project Team",0
+"Subject: University class reminder
+
+Hello Anna,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+CloudMail",1
+"Subject: Team lunch invitation
+
+Hello Huy,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Thank you,
+Finance Team",0
+"Subject: Training schedule confirmation
+
+Hello Minh,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Project status update
+
+Hello Minh,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: Password policy awareness training
+
+Hello Minh,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Best regards,
+Finance Team",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: URGENT account verification required
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Research paper discussion
+
+Hello Huy,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+TaxOnline",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+QuickShip",1
+"Subject: HR announcement
+
+Hello David,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Thank you,
+Project Team",0
+"Subject: Code review summary
+
+Hello Alex,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Delivery confirmation from office supply
+
+Hello Minh,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Thank you,
+HR Department",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+CloudMail",1
+"Subject: Research paper discussion
+
+Hello Anna,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+Office365",1
+"Subject: HR announcement
+
+Hello Huy,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Thank you,
+Academic Office",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+This is the final warning.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+CloudMail",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Payroll update required
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: Weekly report submission
+
+Hello Sarah,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: System maintenance notice
+
+Hello David,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: Monthly invoice from approved vendor
+
+Hello Alex,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Password policy awareness training
+
+Hello David,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: University class reminder
+
+Hello Anna,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Team lunch invitation
+
+Hello Huy,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Important tax refund notification
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+QuickShip",1
+"Subject: Monthly invoice from approved vendor
+
+Hello Minh,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Training schedule confirmation
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: Monthly invoice from approved vendor
+
+Hello Dung,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Best regards,
+Academic Office",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Weekly report submission
+
+Hello Anna,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+TaxOnline",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: HR announcement
+
+Hello David,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Weekly report submission
+
+Hello Minh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+The official document is available in the shared drive.
+Project Team",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Code review summary
+
+Hello Huy,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: System maintenance notice
+
+Hello Minh,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Code review summary
+
+Hello David,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Client feedback summary
+
+Hello Anna,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: Budget review notes
+
+Hello Alex,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Please reply if you have questions.
+Project Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+QuickShip",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+QuickShip",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Team lunch invitation
+
+Hello Dung,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Training schedule confirmation
+
+Hello Huy,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Research paper discussion
+
+Hello Mai,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Please reply if you have questions.
+Academic Office",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Project status update
+
+Hello Sarah,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Please reply if you have questions.
+Academic Office",0
+"Subject: Project status update
+
+Hello John,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: Monthly invoice from approved vendor
+
+Hello Linh,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Thank you,
+HR Department",0
+"Subject: Research paper discussion
+
+Hello Anna,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+This message is for internal communication only.
+Project Team",0
+"Subject: Weekly report submission
+
+Hello Mai,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+Thank you,
+Academic Office",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+TaxOnline",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Training schedule confirmation
+
+Hello Linh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Best regards,
+Finance Team",0
+"Subject: Delivery confirmation from office supply
+
+Hello John,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Payroll update required
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Team lunch invitation
+
+Hello Sarah,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Best regards,
+Project Team",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+PayFast",1
+"Subject: Weekly report submission
+
+Hello Dung,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+Academic Office",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Sarah,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Thank you,
+Research Group",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Code review summary
+
+Hello Anna,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Best regards,
+Finance Team",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Payroll update required
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+TaxOnline",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Weekly report submission
+
+Hello David,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+BankSecure",1
+"Subject: University class reminder
+
+Hello Linh,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+Best regards,
+Project Team",0
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+This is the final warning.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Password policy awareness training
+
+Hello Sarah,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Budget review notes
+
+Hello Sarah,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+CloudMail",1
+"Subject: System maintenance notice
+
+Hello Huy,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Thank you,
+Finance Team",0
+"Subject: Password policy awareness training
+
+Hello Huy,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Best regards,
+HR Department",0
+"Subject: Team lunch invitation
+
+Hello David,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: Project status update
+
+Hello Dung,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Team lunch invitation
+
+Hello Sarah,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Weekly report submission
+
+Hello Minh,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Thank you,
+HR Department",0
+"Subject: Training schedule confirmation
+
+Hello Mai,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Thank you,
+Project Team",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Team lunch invitation
+
+Hello Huy,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Best regards,
+Research Group",0
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+CloudMail",1
+"Subject: Research paper discussion
+
+Hello Alex,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Please reply if you have questions.
+Academic Office",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Huy,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Best regards,
+Project Team",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Do not ignore this message.
+Download the attached document and enable macros.
+
+Security Team
+QuickShip",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+BankSecure",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Monthly invoice from approved vendor
+
+Hello Huy,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Best regards,
+HR Department",0
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Payroll update required
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Client feedback summary
+
+Hello David,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: System maintenance notice
+
+Hello Sarah,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Thank you,
+IT Support",0
+"Subject: Delivery confirmation from office supply
+
+Hello John,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Client feedback summary
+
+Hello Linh,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Best regards,
+HR Department",0
+"Subject: University class reminder
+
+Hello Minh,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Code review summary
+
+Hello Anna,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Delivery confirmation from office supply
+
+Hello Minh,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Best regards,
+Research Group",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+MetaPay",1
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: Password policy awareness training
+
+Hello John,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Client feedback summary
+
+Hello Mai,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Thank you,
+Academic Office",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+CloudMail",1
+"Subject: Password policy awareness training
+
+Hello Mai,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+BankSecure",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Budget review notes
+
+Hello Mai,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: System maintenance notice
+
+Hello Mai,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Research paper discussion
+
+Hello John,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Thank you,
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Thank you,
+HR Department",0
+"Subject: HR announcement
+
+Hello Linh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Best regards,
+HR Department",0
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Password policy awareness training
+
+Hello Huy,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+This message is for internal communication only.
+Project Team",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Sarah,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: University class reminder
+
+Hello Dung,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Project status update
+
+Hello John,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Thank you,
+Finance Team",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Monthly invoice from approved vendor
+
+Hello John,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+The official document is available in the shared drive.
+Research Group",0
+"Subject: URGENT account verification required
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Password policy awareness training
+
+Hello Linh,
+
+Dear customer, this is your monthly invoice from our approved vendor account. No action is required if the amount is correct.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Budget review notes
+
+Hello Linh,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Thank you,
+Research Group",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+You must act immediately.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+QuickShip",1
+"Subject: Research paper discussion
+
+Hello John,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+This message is for internal communication only.
+IT Support",0
+"Subject: Budget review notes
+
+Hello Anna,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Client feedback summary
+
+Hello Huy,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+Finance Team",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Research paper discussion
+
+Hello Linh,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Payroll update required
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+BankSecure",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Your password will expire today. Click here to reset it and avoid account lock: http://password-reset-security.example.net
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+CloudMail",1
+"Subject: Payroll update required
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Password policy awareness training
+
+Hello John,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: HR announcement
+
+Hello David,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+TaxOnline",1
+"Subject: Research paper discussion
+
+Hello Minh,
+
+The IT department will perform system maintenance on Saturday from 10 PM to 12 AM. Some services may be unavailable.
+
+Best regards,
+Academic Office",0
+"Subject: Code review summary
+
+Hello David,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Best regards,
+HR Department",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Sarah,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Team lunch invitation
+
+Hello Sarah,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Please reply if you have questions.
+HR Department",0
+"Subject: Research paper discussion
+
+Hello David,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+This message is for internal communication only.
+Academic Office",0
+"Subject: Monthly invoice from approved vendor
+
+Hello Anna,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Best regards,
+HR Department",0
+"Subject: Important tax refund notification
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Team lunch invitation
+
+Hello John,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Thank you,
+Academic Office",0
+"Subject: Password policy awareness training
+
+Hello Anna,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+Finance Team",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+PayFast",1
+"Subject: System maintenance notice
+
+Hello David,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+The official document is available in the shared drive.
+Research Group",0
+"Subject: Confirm your identity within 24 hours
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+CloudMail",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+QuickShip",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Congratulations, you have won a prize. Claim your reward now by entering your personal information at http://free-prize.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Training schedule confirmation
+
+Hello Alex,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+Thank you,
+Academic Office",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+QuickShip",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+Office365",1
+"Subject: Delivery confirmation from office supply
+
+Hello Sarah,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Best regards,
+HR Department",0
+"Subject: University class reminder
+
+Hello John,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Thank you,
+Project Team",0
+"Subject: Delivery confirmation from office supply
+
+Hello Alex,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+No password or payment information is requested in this email.
+IT Support",0
+"Subject: Payroll update required
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+Best regards,
+Academic Office",0
+"Subject: System maintenance notice
+
+Hello Anna,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+PayFast",1
+"Subject: Budget review notes
+
+Hello Minh,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Confirm your identity within 24 hours. Failure to do so will permanently lock your account: http://identity-check.example.com
+
+You must act immediately.
+Confirm your card number and security code.
+
+Security Team
+PayFast",1
+"Subject: Important tax refund notification
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+You must act immediately.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Budget review notes
+
+Hello John,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+The official document is available in the shared drive.
+IT Support",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+TaxOnline",1
+"Subject: System maintenance notice
+
+Hello Linh,
+
+Hi, I reviewed the pull request and added comments. Please check the code review notes when you have time.
+
+Please reply if you have questions.
+IT Support",0
+"Subject: University class reminder
+
+Hello John,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Project status update
+
+Hello David,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+This message is for internal communication only.
+Research Group",0
+"Subject: University class reminder
+
+Hello John,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Please reply if you have questions.
+HR Department",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Payroll update required
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Do not ignore this message.
+Confirm your card number and security code.
+
+Security Team
+TaxOnline",1
+"Subject: Research paper discussion
+
+Hello Linh,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Training schedule confirmation
+
+Hello Mai,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Best regards,
+IT Support",0
+"Subject: Delivery confirmation from office supply
+
+Hello John,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: Delivery problem confirm address
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+Office365",1
+"Subject: Training schedule confirmation
+
+Hello David,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+Finance Team",0
+"Subject: Budget review notes
+
+Hello David,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+HR Department",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Mai,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: System maintenance notice
+
+Hello Linh,
+
+Hi everyone, the project dashboard has been updated. Please review the latest progress before Friday.
+
+Thank you,
+Research Group",0
+"Subject: Code review summary
+
+Hello David,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: University class reminder
+
+Hello Sarah,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+Please reply if you have questions.
+HR Department",0
+"Subject: Important tax refund notification
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+CloudMail",1
+"Subject: Research paper discussion
+
+Hello Mai,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: System maintenance notice
+
+Hello Sarah,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+No password or payment information is requested in this email.
+Project Team",0
+"Subject: Code review summary
+
+Hello Dung,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+Best regards,
+IT Support",0
+"Subject: Code review summary
+
+Hello Sarah,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Mailbox storage exceeded
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+This is the final warning.
+Download the attached document and enable macros.
+
+Security Team
+CloudMail",1
+"Subject: Payroll update required
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: HR announcement
+
+Hello Sarah,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+The official document is available in the shared drive.
+Academic Office",0
+"Subject: Project status update
+
+Hello David,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Best regards,
+IT Support",0
+"Subject: Payroll update required
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+You must act immediately.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+Office365",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+BankSecure",1
+"Subject: Claim your prize now
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+You must act immediately.
+Download the attached document and enable macros.
+
+Security Team
+CloudMail",1
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+This is the final warning.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Final warning before account closure
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Team lunch invitation
+
+Hello Alex,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+PayFast",1
+"Subject: Budget review notes
+
+Hello Minh,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Linh,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Password reset required immediately
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Do not ignore this message.
+Click the link and update your personal information.
+
+Security Team
+QuickShip",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Payroll update required
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Your account will be locked within 24 hours.
+Reply with your account details for manual verification.
+
+Security Team
+TaxOnline",1
+"Subject: HR announcement
+
+Hello Sarah,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+HR Department",0
+"Subject: Password policy awareness training
+
+Hello Dung,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Your bank account has been suspended
+
+Dear user,
+
+Suspicious transaction detected on your card. Login immediately to cancel this transaction: http://card-alert.example.com
+
+This is the final warning.
+Confirm your card number and security code.
+
+Security Team
+BankSecure",1
+"Subject: Weekly report submission
+
+Hello Anna,
+
+Hello, we are planning a team lunch next week. Please confirm your availability by replying to this email.
+
+Thank you,
+Finance Team",0
+"Subject: Claim your prize now
+
+Dear user,
+
+Security alert: an unknown device accessed your account. Verify your identity immediately using this link http://login-check.example.org
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Monthly invoice from approved vendor
+
+Hello Mai,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Please reply if you have questions.
+Research Group",0
+"Subject: Final warning before account closure
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Download the attached document and enable macros.
+
+Security Team
+Office365",1
+"Subject: Invoice overdue action required
+
+Dear user,
+
+We detected unusual activity on your bank account. Confirm your login details now at http://secure-verify-bank.example.com
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+CloudMail",1
+"Subject: Claim your prize now
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+Failure to verify will result in permanent suspension.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Suspicious transaction detected
+
+Dear user,
+
+Your cloud account will be locked due to suspicious activity. Verify your account now at http://cloud-security.example.com
+
+This is the final warning.
+Download the attached document and enable macros.
+
+Security Team
+MetaPay",1
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Your account will be locked within 24 hours.
+Confirm your card number and security code.
+
+Security Team
+QuickShip",1
+"Subject: Password reset required immediately
+
+Dear user,
+
+URGENT: Your account has been suspended. Please click the link below to verify your password immediately: http://fake-bank-login.com
+
+Failure to verify will result in permanent suspension.
+Confirm your card number and security code.
+
+Security Team
+CloudMail",1
+"Subject: Training schedule confirmation
+
+Hello Huy,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+No password or payment information is requested in this email.
+Academic Office",0
+"Subject: Research paper discussion
+
+Hello David,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+Best regards,
+Academic Office",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Payroll update required. Enter your employee credentials to receive salary on time: http://payroll-update.example.com
+
+Failure to verify will result in permanent suspension.
+Click the link and update your personal information.
+
+Security Team
+MetaPay",1
+"Subject: System maintenance notice
+
+Hello Sarah,
+
+The client sent useful feedback on the prototype. We will discuss required changes in the next sprint planning session.
+
+This message is for internal communication only.
+Project Team",0
+"Subject: Code review summary
+
+Hello John,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+No password or payment information is requested in this email.
+Research Group",0
+"Subject: Your cloud account will be locked
+
+Dear user,
+
+Your payment was declined. Update your card details immediately to avoid service interruption: http://billing-update.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Weekly report submission
+
+Hello Mai,
+
+Please read the research paper before Thursday so we can discuss the machine learning methods in class.
+
+Best regards,
+HR Department",0
+"Subject: HR announcement
+
+Hello Mai,
+
+Attached are the budget review notes from our last discussion. Please provide feedback before the next meeting.
+
+Best regards,
+Project Team",0
+"Subject: Payment failed verify your card
+
+Dear user,
+
+Invoice overdue. Open the attached link and complete the payment verification now: http://invoice-payment.example.com
+
+Your account will be locked within 24 hours.
+Download the attached document and enable macros.
+
+Security Team
+TaxOnline",1
+"Subject: Meeting agenda for tomorrow
+
+Hello David,
+
+This is a reminder about the company's password policy. Do not share passwords and change them according to the official schedule.
+
+Please reply if you have questions.
+Finance Team",0
+"Subject: Payroll update required
+
+Dear user,
+
+Your mailbox storage is full. Login now to upgrade storage or your email will be disabled: http://mailbox-upgrade.example.com
+
+This is the final warning.
+Enter your username and password to continue.
+
+Security Team
+BankSecure",1
+"Subject: Security alert unusual login detected
+
+Dear user,
+
+Important tax refund notification. Submit your banking details to receive your refund: http://tax-refund.example.com
+
+Do not ignore this message.
+Reply with your account details for manual verification.
+
+Security Team
+PayFast",1
+"Subject: Password policy awareness training
+
+Hello Sarah,
+
+Dear students, the artificial intelligence class will be held online this week according to the usual schedule.
+
+The official document is available in the shared drive.
+Finance Team",0
+"Subject: Meeting agenda for tomorrow
+
+Hello Anna,
+
+Your office supply order has been delivered to the reception desk. Please collect it during office hours.
+
+No password or payment information is requested in this email.
+Finance Team",0
+"Subject: Invoice overdue action required
+
+Dear user,
+
+Final warning: your account will be closed within 24 hours unless you confirm your information at http://account-confirm.example.com
+
+Your account will be locked within 24 hours.
+Enter your username and password to continue.
+
+Security Team
+MetaPay",1
+"Subject: Code review summary
+
+Hello Mai,
+
+Please submit your weekly report by the end of today. Use the standard template from the team folder.
+
+This message is for internal communication only.
+Finance Team",0
+"Subject: Password policy awareness training
+
+Hello John,
+
+Hello team, please find the attached agenda for tomorrow's meeting. We will discuss timeline, tasks, and responsibilities.
+
+Thank you,
+Project Team",0
+"Subject: Research paper discussion
+
+Hello John,
+
+HR would like to remind all staff to update emergency contact information through the internal HR portal.
+
+Thank you,
+Research Group",0
+"Subject: Payroll update required
+
+Dear user,
+
+Delivery problem detected. Confirm your address and payment fee here: http://delivery-confirm.example.com
+
+Do not ignore this message.
+Enter your username and password to continue.
+
+Security Team
+TaxOnline",1
+"Subject: Budget review notes
+
+Hello Dung,
+
+The training session will start at 9 AM in room B203. Please bring your laptop and student card.
+
+Best regards,
+IT Support",0
